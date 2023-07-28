@@ -1,7 +1,9 @@
-/* * {
-	border: 1px dashed red;
-	min-height: 10px;
-} */
+* {
+	/* border: 1px dashed red;
+	min-height: 10px; */
+	font-family: "Borel", cursive;
+	font-family: "Courgette", cursive;
+}
 
 body {
 	background: black;
@@ -38,7 +40,7 @@ body {
 }
 
 .body-left p {
-	font-size: 17px;
+	font-size: 15px;
 }
 
 .body-left,
